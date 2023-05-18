@@ -30,7 +30,7 @@ The data for this project is in a csv format. The following describes the column
 - Churn -- Whether the customer churned or not (Yes or No)
 
 ### Article
-This link leads to an article on the findings from the EDA: https://medium.com/@fkbaffour/customer-churn-prediction-with-classification-model-dcec666a413e
+This link leads to an article on the findings from the EDA: [Article](https://medium.com/@fkbaffour/customer-churn-prediction-with-classification-model-dcec666a413e)
 
 ### Author:
 [FK Baffour](https://www.linkedin.com/in/frank-kyei-baffour-403b60100/)
