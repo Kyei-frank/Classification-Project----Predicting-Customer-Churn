@@ -32,4 +32,5 @@ The data for this project is in a csv format. The following describes the column
 ### Article
 This link leads to an article on the findings from the EDA: https://medium.com/@fkbaffour/customer-churn-prediction-with-classification-model-dcec666a413e
 
-### Author: FK Baffour
+### Author:
+[FK Baffour](https://www.linkedin.com/in/frank-kyei-baffour-403b60100/)
